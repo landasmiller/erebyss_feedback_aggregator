@@ -11,15 +11,15 @@ Erebyss solves that problem by turning raw customer signals into structured outp
 
 Erebyss takes in customer feedback and automatically generates:
 
-Themes — grouped patterns across feedback
+<b>Themes</b> — grouped patterns across feedback
 
-Insights — clear summaries of customer pain points
+<b>Insights</b> — clear summaries of customer pain points
 
-Recommendations — suggested actions tied to each insight
+<b>Recommendations</b> — suggested actions tied to each insight
 
-Impact Scoring — priority, effort, revenue risk, and customer segment
+<b>Impact Scoring</b> — priority, effort, revenue risk, and customer segment
 
-Roadmap — ranked product initiatives
+<b>Roadmap</b> — ranked product initiatives
 
 Revenue Impact Summary — highlights what is actually costing the business
 
